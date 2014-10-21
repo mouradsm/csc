@@ -3,13 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package screensframework.controllers;
+package screensframework.views;
 
 import java.net.URL;
 import java.util.ResourceBundle;
 import javafx.fxml.Initializable;
 import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 import screensframework.ControlledScreen;
+import screensframework.ControlledScreen;
+import screensframework.ScreensController;
 import screensframework.ScreensController;
 
 /**
